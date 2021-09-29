@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alper Yilmaz | Academic</title>
+    <link>https://pnstst.github.io/author/alper-yilmaz/</link>
+      <atom:link href="https://pnstst.github.io/author/alper-yilmaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alper Yilmaz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Alper Yilmaz</title>
+      <link>https://pnstst.github.io/author/alper-yilmaz/</link>
+    </image>
+    
+    <item>
+      <title>Registration of images to Lidar and GIS data without establishing explicit correspondences</title>
+      <link>https://pnstst.github.io/publication/barsai-2017/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/barsai-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planar shape representation and matching under projective transformation</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2011/</link>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>View invariant object recognition</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2008/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

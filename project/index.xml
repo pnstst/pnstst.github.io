@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://pnstst.github.io/project/</link>
+      <atom:link href="https://pnstst.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Projects</title>
+      <link>https://pnstst.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning for geo-spatial data analysis</title>
+      <link>https://pnstst.github.io/project/deep-learning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/project/deep-learning/</guid>
+      <description>&lt;p&gt;With fast development in geo-spatial data acquisition technology, a big load of data is obtained everyday. Moreover, the data over an area can be measure in a finer detail i.e., higher resolution satellite imagery. The object detail is therefore higher. The deep learning technology is suitable for extract object of interest on satellite imagery because it can learn the features that well describe the object.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Precipitable water vapor estimation using GNSS</title>
+      <link>https://pnstst.github.io/project/precipitable-water-vapor/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/project/precipitable-water-vapor/</guid>
+      <description>&lt;p&gt;Precipitable water vapor is a crucial variable for weather forecast and climate studies. The signals of Global Navigational Satellite System (GNSS) satellites are used to extract the amount of precipitable water vapor in near-realtime. My research interest in this area is to derive model for estimating mean atmospheric temperature which is an input for extract the amount of precipitable water vapor from GNSS signals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agricultural monitoring</title>
+      <link>https://pnstst.github.io/project/agriculture/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/project/agriculture/</guid>
+      <description>&lt;p&gt;The aims of my research is to extract useful information for agricultural management. Particularly, geo-spatial data such as satellite imagery, image from ground sensor and UAV imagery are used to extract agricultural insight. An example is the count the amount of tree in plantations areas such as palm tree. With the constant revisit time of satellite, the time series data of crop can be extracted such as crop phenology and crop cultivation date.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geometric computer vision</title>
+      <link>https://pnstst.github.io/project/geometric-cv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/project/geometric-cv/</guid>
+      <description>&lt;p&gt;The aim of computer vision is to enable computer or system to extract meaningful information from digital images or other visual inputs. Geometric computer vision concentrate on derive geometric information from object of interests. The research topics Includes but not limited to geometric sensor calibration, sensor fusion, 3D reconstruction, and pattern recognition invaraint to camera view points.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Remotely sensed image analysis</title>
+      <link>https://pnstst.github.io/project/image-analysis/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/project/image-analysis/</guid>
+      <description>&lt;p&gt;Remotely sensed image analysis is the process of interpreting satellite imagery. In other words, the aims of image analysis is to locating, recognizing objects and other higher level features in an satellite image. My research on remotely sensed image analysis including image classification, change detection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

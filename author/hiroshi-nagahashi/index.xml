@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroshi Nagahashi | Academic</title>
+    <link>https://pnstst.github.io/author/hiroshi-nagahashi/</link>
+      <atom:link href="https://pnstst.github.io/author/hiroshi-nagahashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroshi Nagahashi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Sun, 08 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Hiroshi Nagahashi</title>
+      <link>https://pnstst.github.io/author/hiroshi-nagahashi/</link>
+    </image>
+    
+    <item>
+      <title>A novel method for extrinsic parameters estimation between a single-line scan LiDAR and a camera</title>
+      <link>https://pnstst.github.io/publication/tulsuk-2014b/</link>
+      <pubDate>Sun, 08 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/tulsuk-2014b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

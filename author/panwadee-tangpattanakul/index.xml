@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panwadee Tangpattanakul | Academic</title>
+    <link>https://pnstst.github.io/author/panwadee-tangpattanakul/</link>
+      <atom:link href="https://pnstst.github.io/author/panwadee-tangpattanakul/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panwadee Tangpattanakul</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Panwadee Tangpattanakul</title>
+      <link>https://pnstst.github.io/author/panwadee-tangpattanakul/</link>
+    </image>
+    
+    <item>
+      <title>Comparative results of phenology obtained from satellite and ground observation images on paddy field</title>
+      <link>https://pnstst.github.io/publication/soontranon-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/soontranon-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An agricultural monitoring system: Field server data collection and analysis on paddy field</title>
+      <link>https://pnstst.github.io/publication/soontranon-2014b/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/soontranon-2014b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

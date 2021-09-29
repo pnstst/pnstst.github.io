@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rata Suwantong | Academic</title>
+    <link>https://pnstst.github.io/author/rata-suwantong/</link>
+      <atom:link href="https://pnstst.github.io/author/rata-suwantong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rata Suwantong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Rata Suwantong</title>
+      <link>https://pnstst.github.io/author/rata-suwantong/</link>
+    </image>
+    
+    <item>
+      <title>Mean atmospheric temperature model estimation for GNSS meteorology using AIRS and AMSU data</title>
+      <link>https://pnstst.github.io/publication/suwantong-2017/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/suwantong-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving the mean tropospheric temperature model using AIRS and AMSU for GNSS precipitable water vapour estimation</title>
+      <link>https://pnstst.github.io/publication/suwantong-2016c/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/suwantong-2016c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate crop cultivation date estimation from MODIS using NDVI phases and the Extended Kalman Filter</title>
+      <link>https://pnstst.github.io/publication/suwantong-2016/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/suwantong-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support vector regression for rice age estimation using satellite imagery</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2016b/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2016b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving horizon estimator with pre-estimation for crop start date estimation in tropical area</title>
+      <link>https://pnstst.github.io/publication/suwantong-2016b/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/suwantong-2016b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotation matrix sampling scheme for multidimensional probability distribution transfer</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2016/</link>
+      <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

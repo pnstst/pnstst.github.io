@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chanika Sukawattanavijit | Academic</title>
+    <link>https://pnstst.github.io/author/chanika-sukawattanavijit/</link>
+      <atom:link href="https://pnstst.github.io/author/chanika-sukawattanavijit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chanika Sukawattanavijit</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Chanika Sukawattanavijit</title>
+      <link>https://pnstst.github.io/author/chanika-sukawattanavijit/</link>
+    </image>
+    
+    <item>
+      <title>Object-based land cover classification based on fusion of multifrequency SAR data and THAICHOTE optical imagery</title>
+      <link>https://pnstst.github.io/publication/sukawattanavijit-2017/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/sukawattanavijit-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kulsawasd Jitkajornwanich | Academic</title>
+    <link>https://pnstst.github.io/author/kulsawasd-jitkajornwanich/</link>
+      <atom:link href="https://pnstst.github.io/author/kulsawasd-jitkajornwanich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kulsawasd Jitkajornwanich</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Kulsawasd Jitkajornwanich</title>
+      <link>https://pnstst.github.io/author/kulsawasd-jitkajornwanich/</link>
+    </image>
+    
+    <item>
+      <title>Semantic Labeling in Remote Sensing Corpora Using Feature Fusion-Based Enhanced Global Convolutional Network with High-Resolution Representations and Depthwise Atrous Convolution</title>
+      <link>https://pnstst.github.io/publication/panboonyuen-2020/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/panboonyuen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining attentional CNN and GRU networks for ocean current prediction based on HF radar observations</title>
+      <link>https://pnstst.github.io/publication/thongniran-2019b/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/thongniran-2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal deep learning for ocean current prediction based on HF radar data</title>
+      <link>https://pnstst.github.io/publication/thongniran-2019/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/thongniran-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation on remotely sensed images using an enhanced global convolutional network with channel attention and domain specific transfer learning</title>
+      <link>https://pnstst.github.io/publication/panboonyuen-2019/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/panboonyuen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing twitter data for early flood warning in Thailand</title>
+      <link>https://pnstst.github.io/publication/jitkajornwanich-2018/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/jitkajornwanich-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation on medium-resolution satellite images using deep convolutional networks with remote sensing derived indices</title>
+      <link>https://pnstst.github.io/publication/chantharaj-2018/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/chantharaj-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road segmentation of remotely-sensed images using deep convolutional neural networks with landscape metrics and conditional random fields</title>
+      <link>https://pnstst.github.io/publication/panboonyuen-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/panboonyuen-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

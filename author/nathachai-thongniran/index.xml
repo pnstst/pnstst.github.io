@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathachai Thongniran | Academic</title>
+    <link>https://pnstst.github.io/author/nathachai-thongniran/</link>
+      <atom:link href="https://pnstst.github.io/author/nathachai-thongniran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathachai Thongniran</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Nathachai Thongniran</title>
+      <link>https://pnstst.github.io/author/nathachai-thongniran/</link>
+    </image>
+    
+    <item>
+      <title>Combining attentional CNN and GRU networks for ocean current prediction based on HF radar observations</title>
+      <link>https://pnstst.github.io/publication/thongniran-2019b/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/thongniran-2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal deep learning for ocean current prediction based on HF radar data</title>
+      <link>https://pnstst.github.io/publication/thongniran-2019/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/thongniran-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

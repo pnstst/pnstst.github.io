@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitthisak Moukomla | Academic</title>
+    <link>https://pnstst.github.io/author/sitthisak-moukomla/</link>
+      <atom:link href="https://pnstst.github.io/author/sitthisak-moukomla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sitthisak Moukomla</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Sitthisak Moukomla</title>
+      <link>https://pnstst.github.io/author/sitthisak-moukomla/</link>
+    </image>
+    
+    <item>
+      <title>Estimating above ground biomass for eucalyptus plantation using data from unmanned aerial vehicle imagery</title>
+      <link>https://pnstst.github.io/publication/moukomla-2018/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/moukomla-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

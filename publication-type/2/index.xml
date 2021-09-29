@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://pnstst.github.io/publication-type/2/</link>
+      <atom:link href="https://pnstst.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>2</title>
+      <link>https://pnstst.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Semantic Labeling in Remote Sensing Corpora Using Feature Fusion-Based Enhanced Global Convolutional Network with High-Resolution Representations and Depthwise Atrous Convolution</title>
+      <link>https://pnstst.github.io/publication/panboonyuen-2020/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/panboonyuen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation on remotely sensed images using an enhanced global convolutional network with channel attention and domain specific transfer learning</title>
+      <link>https://pnstst.github.io/publication/panboonyuen-2019/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/panboonyuen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registration of images to Lidar and GIS data without establishing explicit correspondences</title>
+      <link>https://pnstst.github.io/publication/barsai-2017/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/barsai-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise tropospheric delay map of Thailand using GNSS precise point positioning technique</title>
+      <link>https://pnstst.github.io/publication/kitpracha-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/kitpracha-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road segmentation of remotely-sensed images using deep convolutional neural networks with landscape metrics and conditional random fields</title>
+      <link>https://pnstst.github.io/publication/panboonyuen-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/panboonyuen-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean atmospheric temperature model estimation for GNSS meteorology using AIRS and AMSU data</title>
+      <link>https://pnstst.github.io/publication/suwantong-2017/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/suwantong-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative results of phenology obtained from satellite and ground observation images on paddy field</title>
+      <link>https://pnstst.github.io/publication/soontranon-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/soontranon-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oil palm tree detection with high resolution multi-spectral satellite imagery</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2014b/</link>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2014b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planar shape representation and matching under projective transformation</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2011/</link>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

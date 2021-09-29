@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preesan Rakwatin | Academic</title>
+    <link>https://pnstst.github.io/author/preesan-rakwatin/</link>
+      <atom:link href="https://pnstst.github.io/author/preesan-rakwatin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preesan Rakwatin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Preesan Rakwatin</title>
+      <link>https://pnstst.github.io/author/preesan-rakwatin/</link>
+    </image>
+    
+    <item>
+      <title>Accurate crop cultivation date estimation from MODIS using NDVI phases and the Extended Kalman Filter</title>
+      <link>https://pnstst.github.io/publication/suwantong-2016/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/suwantong-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving horizon estimator with pre-estimation for crop start date estimation in tropical area</title>
+      <link>https://pnstst.github.io/publication/suwantong-2016b/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/suwantong-2016b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised ensemble change detection using kernel PCA</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice crop calendar based on phenology analysis from time-series images</title>
+      <link>https://pnstst.github.io/publication/soontranon-2015c/</link>
+      <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/soontranon-2015c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative results of phenology obtained from satellite and ground observation images on paddy field</title>
+      <link>https://pnstst.github.io/publication/soontranon-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/soontranon-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of RadarSat-2 and MODIS vegetation indices for rice crop phenology in Thailand</title>
+      <link>https://pnstst.github.io/publication/rakwatin-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/rakwatin-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice crop phenology using texture analysis on time-series images obtained from still camera</title>
+      <link>https://pnstst.github.io/publication/soontranon-2014c/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/soontranon-2014c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice field monitoring using intrinsic image decomposed from field server imagery</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2014c/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2014c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oil palm tree detection with high resolution multi-spectral satellite imagery</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2014b/</link>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2014b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An agricultural monitoring system: Field server data collection and analysis on paddy field</title>
+      <link>https://pnstst.github.io/publication/soontranon-2014b/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/soontranon-2014b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice growing stage monitoring in small-scale region using ExG vegetation index</title>
+      <link>https://pnstst.github.io/publication/soontranon-2014/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/soontranon-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach for oil palm tree detection using multispectral imagery</title>
+      <link>https://pnstst.github.io/publication/srestasathiern-2013/</link>
+      <pubDate>Thu, 24 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/srestasathiern-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

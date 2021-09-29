@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nattadet Vijaranakul | Academic</title>
+    <link>https://pnstst.github.io/author/nattadet-vijaranakul/</link>
+      <atom:link href="https://pnstst.github.io/author/nattadet-vijaranakul/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nattadet Vijaranakul</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 P. Srestasathiern</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pnstst.github.io/media/logo_hu41f420d405e24f55362ba2e7d5701fa7_6444_300x300_fit_lanczos_3.png</url>
+      <title>Nattadet Vijaranakul</title>
+      <link>https://pnstst.github.io/author/nattadet-vijaranakul/</link>
+    </image>
+    
+    <item>
+      <title>Air quality assessment based on Landsat 8 images using supervised machine learning techniques</title>
+      <link>https://pnstst.github.io/publication/vijaranakul-2020/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://pnstst.github.io/publication/vijaranakul-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
